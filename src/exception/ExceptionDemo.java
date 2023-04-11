@@ -58,6 +58,7 @@ public class ExceptionDemo {
 		}
 
 		System.out.println("Exception Handled");
+		System.out.println("Exception Handled");
 	}
 
 }
